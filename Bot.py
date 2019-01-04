@@ -209,5 +209,4 @@ async def on_message():
                     users[userName.id]["payment"]
                     )
                 )
-client.run(str(os.environ.get('NTMwNTUxOTAxNDA2ODg3OTQ2.DxEmlQ.7o6lCFNAJyprJFNGoxAC0GQ6YkQ
-')))
+client.run(str(os.environ.get('BOT_TOKEN')))
